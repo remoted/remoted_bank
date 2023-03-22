@@ -1,0 +1,7 @@
+net\remoted\bank\repository\SearchQueryRepository.class
+net\remoted\bank\entity\Blog.class
+net\remoted\bank\conf\KakaoConfig.class
+net\remoted\BankApplication.class
+net\remoted\bank\repository\BlogRepository.class
+net\remoted\bank\controller\BlogController.class
+net\remoted\bank\entity\SearchQuery.class
